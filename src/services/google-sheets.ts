@@ -1,5 +1,4 @@
 import { google } from "googleapis";
-import knex from "#postgres/knex.js";
 import env from "#config/env/env.js";
 import { getTodayTariffsSorted } from "./tariff-storage.js";
 import log4js from "log4js";

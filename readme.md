@@ -14,7 +14,7 @@
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/jklazer/wb-tariffs-service.git
 cd wb-tariffs-service
 ```
 
